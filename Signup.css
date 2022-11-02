@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    margin: 90px;
+}
+#email{
+    border-radius: 5px;
+    width: 180px;
+    padding: 6px;
+    margin-bottom: 5px;
+
+
+    
+}
+#pass{
+    border-radius: 5px;
+    width: 180px;
+    padding: 6px;
+    margin-bottom: 5px;
+
+}
+
+#web{
+    background-color: white;
+    text-align: center;
+    padding: 100px;
+    height: 250px;
+    width: 200px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pass{
+    margin-bottom: 10px;
+    border-color: black;
+}
+#email{
+    margin-bottom: 0px;
+    border-color: black;
+    
+}
+.rem {
+    font-size: x-small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+#goo{
+    border-radius: 5px;
+    width: 180px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    border-color: black;
+    padding: 6px;
+}
+.but{
+    border-radius: 5px;
+    width: 180px;
+    margin-bottom: 5px;
+    border-color: black;
+    padding: 6px;
+}
+.kk{
+    font-size: 3mm;
+}
+a:link{
+    color: black;
+}
+h3{
+    text-align: left;
+    margin-left: 8px;
+}
+#img{
+    background-color:white;
+}
+#titlt{
+    justify-content: right;
+}
